@@ -1,0 +1,401 @@
+2020-08-24 21:49:49,320 [main] INFO MavenProjectDemo - URL Open
+2020-08-24 21:49:49,509 [main] INFO MavenProjectDemo - User provided
+2020-08-24 21:49:49,573 [main] INFO MavenProjectDemo - Password provided
+2020-08-24 21:50:02,389 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-24 21:50:05,397 [main] INFO MavenProjectDemo - Login success
+2020-08-24 22:40:08,778 [main] INFO MavenProjectDemo - URL Open
+2020-08-24 22:40:08,973 [main] INFO MavenProjectDemo - User provided
+2020-08-24 22:40:09,037 [main] INFO MavenProjectDemo - Password provided
+2020-08-24 22:40:21,645 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-24 22:40:24,660 [main] INFO MavenProjectDemo - Login success
+2020-08-24 23:16:39,083 [main] INFO MavenProjectDemo - URL Open
+2020-08-24 23:16:39,810 [main] INFO MavenProjectDemo - User provided
+2020-08-24 23:16:39,867 [main] INFO MavenProjectDemo - Password provided
+2020-08-24 23:16:58,527 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-24 23:17:01,545 [main] INFO MavenProjectDemo - Login success
+2020-08-25 23:01:36,300 [main] INFO MavenProjectDemo - URL Open
+2020-08-25 23:01:37,568 [main] INFO MavenProjectDemo - User provided
+2020-08-25 23:01:37,665 [main] INFO MavenProjectDemo - Password provided
+2020-08-25 23:01:47,839 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-25 23:01:50,854 [main] INFO MavenProjectDemo - Login success
+2020-08-25 23:10:48,537 [main] INFO MavenProjectDemo - URL Open
+2020-08-25 23:10:48,732 [main] INFO MavenProjectDemo - User provided
+2020-08-25 23:10:48,801 [main] INFO MavenProjectDemo - Password provided
+2020-08-25 23:11:01,491 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-25 23:11:04,505 [main] INFO MavenProjectDemo - Login fail
+2020-08-27 17:31:07,991 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 17:31:08,388 [main] INFO MavenProjectDemo - User provided
+2020-08-27 17:31:08,461 [main] INFO MavenProjectDemo - Password provided
+2020-08-27 17:31:23,407 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-27 17:31:26,418 [main] INFO MavenProjectDemo - Login fail
+2020-08-27 17:31:55,789 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 17:31:55,914 [main] INFO MavenProjectDemo - User provided
+2020-08-27 17:31:56,000 [main] INFO MavenProjectDemo - Password provided
+2020-08-27 17:32:06,670 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-27 17:32:09,689 [main] INFO MavenProjectDemo - Login fail
+2020-08-27 17:32:12,125 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 17:32:14,582 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 17:32:16,941 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 17:49:05,144 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 17:49:05,312 [main] INFO MavenProjectDemo - User provided
+2020-08-27 17:49:05,394 [main] INFO MavenProjectDemo - Password provided
+2020-08-27 17:49:15,023 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-27 17:49:18,038 [main] INFO MavenProjectDemo - Login fail
+2020-08-27 17:49:36,643 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 17:49:36,763 [main] INFO MavenProjectDemo - User provided
+2020-08-27 17:49:36,839 [main] INFO MavenProjectDemo - Password provided
+2020-08-27 17:49:47,291 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-27 17:49:50,303 [main] INFO MavenProjectDemo - Login success
+2020-08-27 17:49:58,478 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 17:49:58,588 [main] INFO MavenProjectDemo - User provided
+2020-08-27 17:49:58,653 [main] INFO MavenProjectDemo - Password provided
+2020-08-27 17:49:59,511 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-27 17:50:02,520 [main] INFO MavenProjectDemo - Login fail
+2020-08-27 17:50:04,207 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 17:50:04,308 [main] INFO MavenProjectDemo - User provided
+2020-08-27 17:50:04,404 [main] INFO MavenProjectDemo - Password provided
+2020-08-27 17:50:05,132 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-27 17:50:08,146 [main] INFO MavenProjectDemo - Login fail
+2020-08-27 17:50:09,980 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 17:50:10,098 [main] INFO MavenProjectDemo - User provided
+2020-08-27 17:50:10,173 [main] INFO MavenProjectDemo - Password provided
+2020-08-27 17:50:11,151 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-27 17:50:14,159 [main] INFO MavenProjectDemo - Login fail
+2020-08-27 18:04:01,346 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 18:04:01,536 [main] INFO MavenProjectDemo - User provided
+2020-08-27 18:04:01,612 [main] INFO MavenProjectDemo - Password provided
+2020-08-27 18:04:10,893 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-27 18:04:13,901 [main] INFO MavenProjectDemo - Login fail
+2020-08-27 18:04:14,089 [main] INFO MavenProjectDemo - Login success
+2020-08-27 18:04:30,402 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 18:04:30,530 [main] INFO MavenProjectDemo - User provided
+2020-08-27 18:04:30,602 [main] INFO MavenProjectDemo - Password provided
+2020-08-27 18:04:39,227 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-27 18:04:42,239 [main] INFO MavenProjectDemo - Login success
+2020-08-27 18:04:50,292 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 18:04:50,402 [main] INFO MavenProjectDemo - User provided
+2020-08-27 18:04:50,466 [main] INFO MavenProjectDemo - Password provided
+2020-08-27 18:04:51,229 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-27 18:04:54,238 [main] INFO MavenProjectDemo - Login fail
+2020-08-27 18:04:56,045 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 18:04:56,155 [main] INFO MavenProjectDemo - User provided
+2020-08-27 18:04:56,221 [main] INFO MavenProjectDemo - Password provided
+2020-08-27 18:04:56,958 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-27 18:04:59,966 [main] INFO MavenProjectDemo - Login fail
+2020-08-27 18:05:03,079 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 18:05:03,181 [main] INFO MavenProjectDemo - User provided
+2020-08-27 18:05:03,244 [main] INFO MavenProjectDemo - Password provided
+2020-08-27 18:05:03,992 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-27 18:05:07,001 [main] INFO MavenProjectDemo - Login fail
+2020-08-27 18:20:14,063 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 18:20:14,254 [main] INFO MavenProjectDemo - User provided
+2020-08-27 18:20:14,333 [main] INFO MavenProjectDemo - Password provided
+2020-08-27 18:20:23,442 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-27 18:20:26,455 [main] INFO MavenProjectDemo - Login fail
+2020-08-27 18:20:26,688 [main] INFO MavenProjectDemo - Login success
+2020-08-27 18:20:44,415 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 18:20:44,551 [main] INFO MavenProjectDemo - User provided
+2020-08-27 18:20:44,621 [main] INFO MavenProjectDemo - Password provided
+2020-08-27 18:20:52,498 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-27 18:20:55,511 [main] INFO MavenProjectDemo - Login success
+2020-08-27 18:21:01,552 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 18:21:01,659 [main] INFO MavenProjectDemo - User provided
+2020-08-27 18:21:01,720 [main] INFO MavenProjectDemo - Password provided
+2020-08-27 18:21:02,398 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-27 18:21:05,408 [main] INFO MavenProjectDemo - Login fail
+2020-08-27 18:21:08,002 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 18:21:08,124 [main] INFO MavenProjectDemo - User provided
+2020-08-27 18:21:08,191 [main] INFO MavenProjectDemo - Password provided
+2020-08-27 18:21:08,792 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-27 18:21:11,800 [main] INFO MavenProjectDemo - Login fail
+2020-08-27 18:21:13,317 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 18:21:13,426 [main] INFO MavenProjectDemo - User provided
+2020-08-27 18:21:13,492 [main] INFO MavenProjectDemo - Password provided
+2020-08-27 18:21:14,227 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-27 18:21:17,235 [main] INFO MavenProjectDemo - Login fail
+2020-08-27 22:15:33,100 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 22:15:33,529 [main] INFO MavenProjectDemo - User provided
+2020-08-27 22:15:33,601 [main] INFO MavenProjectDemo - Password provided
+2020-08-27 22:15:57,151 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-27 22:16:00,168 [main] INFO MavenProjectDemo - Login fail
+2020-08-27 22:16:00,594 [main] INFO MavenProjectDemo - Login success
+2020-08-27 22:20:52,312 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 22:20:52,502 [main] INFO MavenProjectDemo - User provided
+2020-08-27 22:20:52,584 [main] INFO MavenProjectDemo - Password provided
+2020-08-27 22:21:11,907 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-27 22:21:14,919 [main] INFO MavenProjectDemo - Login fail
+2020-08-27 22:21:15,256 [main] INFO MavenProjectDemo - Login success
+2020-08-27 22:21:36,323 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 22:21:36,446 [main] INFO MavenProjectDemo - User provided
+2020-08-27 22:21:36,506 [main] INFO MavenProjectDemo - Password provided
+2020-08-27 22:21:52,570 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-27 22:21:55,587 [main] INFO MavenProjectDemo - Login success
+2020-08-27 22:22:00,155 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 22:22:00,269 [main] INFO MavenProjectDemo - User provided
+2020-08-27 22:22:00,329 [main] INFO MavenProjectDemo - Password provided
+2020-08-27 22:22:01,129 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-27 22:22:04,138 [main] INFO MavenProjectDemo - Login fail
+2020-08-27 22:22:05,972 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 22:22:06,128 [main] INFO MavenProjectDemo - User provided
+2020-08-27 22:22:06,421 [main] INFO MavenProjectDemo - Password provided
+2020-08-27 22:22:07,136 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-27 22:22:10,144 [main] INFO MavenProjectDemo - Login fail
+2020-08-27 22:22:12,291 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 22:22:12,417 [main] INFO MavenProjectDemo - User provided
+2020-08-27 22:22:12,483 [main] INFO MavenProjectDemo - Password provided
+2020-08-27 22:22:13,220 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-27 22:22:16,228 [main] INFO MavenProjectDemo - Login fail
+2020-08-27 22:34:33,679 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 22:34:33,908 [main] INFO MavenProjectDemo - User provided
+2020-08-27 22:34:33,973 [main] INFO MavenProjectDemo - Password provided
+2020-08-27 22:34:52,010 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-27 22:34:55,027 [main] INFO MavenProjectDemo - Login fail
+2020-08-27 22:34:55,286 [main] INFO MavenProjectDemo - Login success
+2020-08-27 22:35:10,619 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 22:35:10,750 [main] INFO MavenProjectDemo - User provided
+2020-08-27 22:35:10,825 [main] INFO MavenProjectDemo - Password provided
+2020-08-27 22:35:20,269 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-27 22:35:23,281 [main] INFO MavenProjectDemo - Login success
+2020-08-27 22:35:26,955 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 22:35:27,063 [main] INFO MavenProjectDemo - User provided
+2020-08-27 22:35:27,128 [main] INFO MavenProjectDemo - Password provided
+2020-08-27 22:35:27,882 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-27 22:35:30,890 [main] INFO MavenProjectDemo - Login fail
+2020-08-27 22:35:32,974 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 22:35:33,101 [main] INFO MavenProjectDemo - User provided
+2020-08-27 22:35:33,172 [main] INFO MavenProjectDemo - Password provided
+2020-08-27 22:35:34,148 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-27 22:35:37,158 [main] INFO MavenProjectDemo - Login fail
+2020-08-27 22:35:38,971 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 22:35:39,076 [main] INFO MavenProjectDemo - User provided
+2020-08-27 22:35:39,135 [main] INFO MavenProjectDemo - Password provided
+2020-08-27 22:35:39,897 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-27 22:35:42,905 [main] INFO MavenProjectDemo - Login fail
+2020-08-27 22:42:18,991 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 22:42:19,201 [main] INFO MavenProjectDemo - User provided
+2020-08-27 22:42:19,268 [main] INFO MavenProjectDemo - Password provided
+2020-08-27 22:42:24,538 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-27 22:42:27,554 [main] INFO MavenProjectDemo - Login fail
+2020-08-27 22:42:27,729 [main] INFO MavenProjectDemo - Login success
+2020-08-27 22:42:47,897 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 22:42:48,080 [main] INFO MavenProjectDemo - User provided
+2020-08-27 22:42:48,146 [main] INFO MavenProjectDemo - Password provided
+2020-08-27 22:43:08,816 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-27 22:43:11,836 [main] INFO MavenProjectDemo - Login success
+2020-08-27 22:43:17,038 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 22:43:17,145 [main] INFO MavenProjectDemo - User provided
+2020-08-27 22:43:17,219 [main] INFO MavenProjectDemo - Password provided
+2020-08-27 22:43:17,971 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-27 22:43:20,979 [main] INFO MavenProjectDemo - Login fail
+2020-08-27 22:43:23,928 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 22:43:24,044 [main] INFO MavenProjectDemo - User provided
+2020-08-27 22:43:24,101 [main] INFO MavenProjectDemo - Password provided
+2020-08-27 22:43:24,842 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-27 22:43:27,880 [main] INFO MavenProjectDemo - Login fail
+2020-08-27 22:43:29,697 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 22:43:29,812 [main] INFO MavenProjectDemo - User provided
+2020-08-27 22:43:29,876 [main] INFO MavenProjectDemo - Password provided
+2020-08-27 22:43:31,907 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-27 22:43:34,915 [main] INFO MavenProjectDemo - Login fail
+2020-08-27 22:54:37,644 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 22:54:37,927 [main] INFO MavenProjectDemo - User provided
+2020-08-27 22:54:38,006 [main] INFO MavenProjectDemo - Password provided
+2020-08-27 22:54:50,377 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-27 22:54:53,394 [main] INFO MavenProjectDemo - Login success
+2020-08-27 22:55:03,489 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 22:55:03,613 [main] INFO MavenProjectDemo - User provided
+2020-08-27 22:55:03,690 [main] INFO MavenProjectDemo - Password provided
+2020-08-27 22:55:05,289 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-27 22:55:08,299 [main] INFO MavenProjectDemo - Login fail
+2020-08-27 22:55:13,993 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 22:55:14,102 [main] INFO MavenProjectDemo - User provided
+2020-08-27 22:55:14,163 [main] INFO MavenProjectDemo - Password provided
+2020-08-27 22:55:16,320 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-27 22:55:19,327 [main] INFO MavenProjectDemo - Login fail
+2020-08-27 22:55:25,702 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 22:55:25,800 [main] INFO MavenProjectDemo - User provided
+2020-08-27 22:55:25,868 [main] INFO MavenProjectDemo - Password provided
+2020-08-27 22:55:27,774 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-27 22:55:30,785 [main] INFO MavenProjectDemo - Login fail
+2020-08-27 23:01:49,872 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 23:01:50,143 [main] INFO MavenProjectDemo - User provided
+2020-08-27 23:01:50,224 [main] INFO MavenProjectDemo - Password provided
+2020-08-27 23:01:59,031 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-27 23:02:02,042 [main] INFO MavenProjectDemo - Login fail
+2020-08-27 23:02:02,328 [main] INFO MavenProjectDemo - Login success
+2020-08-27 23:02:24,084 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 23:02:24,211 [main] INFO MavenProjectDemo - User provided
+2020-08-27 23:02:24,289 [main] INFO MavenProjectDemo - Password provided
+2020-08-27 23:02:33,279 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-27 23:02:36,293 [main] INFO MavenProjectDemo - Login success
+2020-08-27 23:02:42,003 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 23:02:42,106 [main] INFO MavenProjectDemo - User provided
+2020-08-27 23:02:42,174 [main] INFO MavenProjectDemo - Password provided
+2020-08-27 23:02:43,258 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-27 23:02:46,268 [main] INFO MavenProjectDemo - Login fail
+2020-08-27 23:02:48,381 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 23:02:48,538 [main] INFO MavenProjectDemo - User provided
+2020-08-27 23:02:48,604 [main] INFO MavenProjectDemo - Password provided
+2020-08-27 23:02:50,574 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-27 23:02:53,582 [main] INFO MavenProjectDemo - Login fail
+2020-08-27 23:02:55,439 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 23:02:55,564 [main] INFO MavenProjectDemo - User provided
+2020-08-27 23:02:55,644 [main] INFO MavenProjectDemo - Password provided
+2020-08-27 23:02:56,330 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-27 23:02:59,339 [main] INFO MavenProjectDemo - Login fail
+2020-08-27 23:58:41,184 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 23:58:41,542 [main] INFO MavenProjectDemo - User provided
+2020-08-27 23:58:41,625 [main] INFO MavenProjectDemo - Password provided
+2020-08-27 23:58:50,473 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-27 23:58:53,481 [main] INFO MavenProjectDemo - Login fail
+2020-08-27 23:58:54,027 [main] INFO MavenProjectDemo - Login success
+2020-08-27 23:59:18,568 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 23:59:18,691 [main] INFO MavenProjectDemo - User provided
+2020-08-27 23:59:18,764 [main] INFO MavenProjectDemo - Password provided
+2020-08-27 23:59:28,888 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-27 23:59:31,903 [main] INFO MavenProjectDemo - Login success
+2020-08-27 23:59:40,263 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 23:59:40,368 [main] INFO MavenProjectDemo - User provided
+2020-08-27 23:59:40,426 [main] INFO MavenProjectDemo - Password provided
+2020-08-27 23:59:41,223 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-27 23:59:44,230 [main] INFO MavenProjectDemo - Login fail
+2020-08-27 23:59:47,596 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 23:59:47,714 [main] INFO MavenProjectDemo - User provided
+2020-08-27 23:59:47,791 [main] INFO MavenProjectDemo - Password provided
+2020-08-27 23:59:48,762 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-27 23:59:51,770 [main] INFO MavenProjectDemo - Login fail
+2020-08-27 23:59:54,012 [main] INFO MavenProjectDemo - URL Open
+2020-08-27 23:59:54,098 [main] INFO MavenProjectDemo - User provided
+2020-08-27 23:59:54,157 [main] INFO MavenProjectDemo - Password provided
+2020-08-27 23:59:54,806 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-27 23:59:57,816 [main] INFO MavenProjectDemo - Login fail
+2020-08-28 20:10:57,356 [main] INFO MavenProjectDemo - URL Open
+2020-08-28 20:10:57,640 [main] INFO MavenProjectDemo - User provided
+2020-08-28 20:10:57,743 [main] INFO MavenProjectDemo - Password provided
+2020-08-28 20:11:09,874 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-28 20:11:12,886 [main] INFO MavenProjectDemo - Login fail
+2020-08-28 20:11:14,321 [main] INFO MavenProjectDemo - Login success
+2020-08-28 20:11:39,750 [main] INFO MavenProjectDemo - URL Open
+2020-08-28 20:11:39,880 [main] INFO MavenProjectDemo - User provided
+2020-08-28 20:11:39,960 [main] INFO MavenProjectDemo - Password provided
+2020-08-28 20:11:52,083 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-28 20:11:55,093 [main] INFO MavenProjectDemo - Login success
+2020-08-28 20:12:02,612 [main] INFO MavenProjectDemo - URL Open
+2020-08-28 20:12:02,703 [main] INFO MavenProjectDemo - User provided
+2020-08-28 20:12:02,764 [main] INFO MavenProjectDemo - Password provided
+2020-08-28 20:12:04,664 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-28 20:12:07,672 [main] INFO MavenProjectDemo - Login fail
+2020-08-28 20:12:11,026 [main] INFO MavenProjectDemo - URL Open
+2020-08-28 20:12:11,130 [main] INFO MavenProjectDemo - User provided
+2020-08-28 20:12:11,187 [main] INFO MavenProjectDemo - Password provided
+2020-08-28 20:12:11,796 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-28 20:12:14,804 [main] INFO MavenProjectDemo - Login fail
+2020-08-28 20:12:16,535 [main] INFO MavenProjectDemo - URL Open
+2020-08-28 20:12:16,634 [main] INFO MavenProjectDemo - User provided
+2020-08-28 20:12:16,690 [main] INFO MavenProjectDemo - Password provided
+2020-08-28 20:12:17,277 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-28 20:12:20,288 [main] INFO MavenProjectDemo - Login fail
+2020-08-28 21:25:49,644 [main] INFO MavenProjectDemo - URL Open
+2020-08-28 21:25:49,935 [main] INFO MavenProjectDemo - User provided
+2020-08-28 21:25:49,995 [main] INFO MavenProjectDemo - Password provided
+2020-08-28 21:26:03,553 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-28 21:26:06,569 [main] INFO MavenProjectDemo - Login fail
+2020-08-28 21:26:07,500 [main] INFO MavenProjectDemo - Login success
+2020-08-28 21:26:32,713 [main] INFO MavenProjectDemo - URL Open
+2020-08-28 21:26:32,834 [main] INFO MavenProjectDemo - User provided
+2020-08-28 21:26:32,905 [main] INFO MavenProjectDemo - Password provided
+2020-08-28 21:26:45,276 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-28 21:26:48,289 [main] INFO MavenProjectDemo - Login success
+2020-08-28 21:26:52,667 [main] INFO MavenProjectDemo - URL Open
+2020-08-28 21:26:52,753 [main] INFO MavenProjectDemo - User provided
+2020-08-28 21:26:52,824 [main] INFO MavenProjectDemo - Password provided
+2020-08-28 21:26:53,793 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-28 21:26:56,801 [main] INFO MavenProjectDemo - Login fail
+2020-08-28 21:26:58,643 [main] INFO MavenProjectDemo - URL Open
+2020-08-28 21:26:58,758 [main] INFO MavenProjectDemo - User provided
+2020-08-28 21:26:58,844 [main] INFO MavenProjectDemo - Password provided
+2020-08-28 21:26:59,547 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-28 21:27:02,554 [main] INFO MavenProjectDemo - Login fail
+2020-08-28 21:27:04,731 [main] INFO MavenProjectDemo - URL Open
+2020-08-28 21:27:04,861 [main] INFO MavenProjectDemo - User provided
+2020-08-28 21:27:04,950 [main] INFO MavenProjectDemo - Password provided
+2020-08-28 21:27:05,670 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-28 21:27:08,677 [main] INFO MavenProjectDemo - Login fail
+2020-08-28 22:22:40,663 [main] INFO MavenProjectDemo - URL Open
+2020-08-28 22:22:41,023 [main] INFO MavenProjectDemo - User provided
+2020-08-28 22:22:41,089 [main] INFO MavenProjectDemo - Password provided
+2020-08-28 22:22:52,409 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-28 22:22:55,420 [main] INFO MavenProjectDemo - Login fail
+2020-08-28 22:22:57,068 [main] INFO MavenProjectDemo - Login success
+2020-08-28 22:23:28,167 [main] INFO MavenProjectDemo - URL Open
+2020-08-28 22:23:28,297 [main] INFO MavenProjectDemo - User provided
+2020-08-28 22:23:28,388 [main] INFO MavenProjectDemo - Password provided
+2020-08-28 22:23:43,720 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-28 22:23:46,734 [main] INFO MavenProjectDemo - Login success
+2020-08-28 22:23:53,696 [main] INFO MavenProjectDemo - URL Open
+2020-08-28 22:23:53,796 [main] INFO MavenProjectDemo - User provided
+2020-08-28 22:23:53,862 [main] INFO MavenProjectDemo - Password provided
+2020-08-28 22:23:55,617 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-28 22:23:58,623 [main] INFO MavenProjectDemo - Login fail
+2020-08-28 22:24:00,680 [main] INFO MavenProjectDemo - URL Open
+2020-08-28 22:24:00,812 [main] INFO MavenProjectDemo - User provided
+2020-08-28 22:24:00,904 [main] INFO MavenProjectDemo - Password provided
+2020-08-28 22:24:01,805 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-28 22:24:04,812 [main] INFO MavenProjectDemo - Login fail
+2020-08-28 22:24:07,071 [main] INFO MavenProjectDemo - URL Open
+2020-08-28 22:24:07,216 [main] INFO MavenProjectDemo - User provided
+2020-08-28 22:24:07,290 [main] INFO MavenProjectDemo - Password provided
+2020-08-28 22:24:07,973 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-28 22:24:10,982 [main] INFO MavenProjectDemo - Login fail
+2020-08-28 23:18:50,164 [main] INFO MavenProjectDemo - URL Open
+2020-08-28 23:18:51,545 [main] INFO MavenProjectDemo - User provided
+2020-08-28 23:18:51,608 [main] INFO MavenProjectDemo - Password provided
+2020-08-28 23:19:03,035 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-28 23:19:06,242 [main] INFO MavenProjectDemo - Login fail
+2020-08-28 23:19:07,675 [main] INFO MavenProjectDemo - Login success
+2020-08-28 23:19:59,700 [main] INFO MavenProjectDemo - URL Open
+2020-08-28 23:19:59,870 [main] INFO MavenProjectDemo - User provided
+2020-08-28 23:19:59,946 [main] INFO MavenProjectDemo - Password provided
+2020-08-28 23:20:07,971 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-28 23:20:10,985 [main] INFO MavenProjectDemo - Login success
+2020-08-28 23:20:16,257 [main] INFO MavenProjectDemo - URL Open
+2020-08-28 23:20:16,360 [main] INFO MavenProjectDemo - User provided
+2020-08-28 23:20:16,422 [main] INFO MavenProjectDemo - Password provided
+2020-08-28 23:20:17,108 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-28 23:20:20,119 [main] INFO MavenProjectDemo - Login fail
+2020-08-28 23:20:21,949 [main] INFO MavenProjectDemo - URL Open
+2020-08-28 23:20:22,091 [main] INFO MavenProjectDemo - User provided
+2020-08-28 23:20:22,160 [main] INFO MavenProjectDemo - Password provided
+2020-08-28 23:20:22,798 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-28 23:20:25,805 [main] INFO MavenProjectDemo - Login fail
+2020-08-28 23:20:27,301 [main] INFO MavenProjectDemo - URL Open
+2020-08-28 23:20:27,412 [main] INFO MavenProjectDemo - User provided
+2020-08-28 23:20:27,476 [main] INFO MavenProjectDemo - Password provided
+2020-08-28 23:20:28,110 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-28 23:20:31,117 [main] INFO MavenProjectDemo - Login fail
+2020-08-28 23:27:51,056 [main] INFO MavenProjectDemo - URL Open
+2020-08-28 23:27:51,290 [main] INFO MavenProjectDemo - User provided
+2020-08-28 23:27:51,360 [main] INFO MavenProjectDemo - Password provided
+2020-08-28 23:28:03,356 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-28 23:28:06,371 [main] INFO MavenProjectDemo - Login fail
+2020-08-28 23:28:06,584 [main] INFO MavenProjectDemo - Login success
+2020-08-28 23:28:30,821 [main] INFO MavenProjectDemo - URL Open
+2020-08-28 23:28:31,022 [main] INFO MavenProjectDemo - User provided
+2020-08-28 23:28:31,103 [main] INFO MavenProjectDemo - Password provided
+2020-08-28 23:28:42,685 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-28 23:28:45,696 [main] INFO MavenProjectDemo - Login success
+2020-08-28 23:28:50,407 [main] INFO MavenProjectDemo - URL Open
+2020-08-28 23:28:50,514 [main] INFO MavenProjectDemo - User provided
+2020-08-28 23:28:50,583 [main] INFO MavenProjectDemo - Password provided
+2020-08-28 23:28:51,331 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-28 23:28:54,338 [main] INFO MavenProjectDemo - Login fail
+2020-08-28 23:28:56,135 [main] INFO MavenProjectDemo - URL Open
+2020-08-28 23:28:56,275 [main] INFO MavenProjectDemo - User provided
+2020-08-28 23:28:56,350 [main] INFO MavenProjectDemo - Password provided
+2020-08-28 23:28:56,999 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-28 23:29:00,009 [main] INFO MavenProjectDemo - Login fail
+2020-08-28 23:29:03,195 [main] INFO MavenProjectDemo - URL Open
+2020-08-28 23:29:03,304 [main] INFO MavenProjectDemo - User provided
+2020-08-28 23:29:03,378 [main] INFO MavenProjectDemo - Password provided
+2020-08-28 23:29:04,120 [main] INFO MavenProjectDemo - Login button clicked
+2020-08-28 23:29:07,130 [main] INFO MavenProjectDemo - Login fail

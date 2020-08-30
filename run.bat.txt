@@ -1,0 +1,2 @@
+cd C:\Users\Sharad\eclipse-workspace\MavenProjectDemo
+mvn clean install

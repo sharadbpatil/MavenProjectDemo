@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 100.345 s <<< FAILURE! - in TestSuite
+login(com.MavenProjectDemo.testCases.TC_LoginTest_001)  Time elapsed: 26.002 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.MavenProjectDemo.testCases.TC_LoginTest_001.login(TC_LoginTest_001.java:40)
+
+loginDDT(com.MavenProjectDemo.testCases.TC_LoginDDT_002)  Time elapsed: 6.051 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.MavenProjectDemo.testCases.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:40)
+
+loginDDT(com.MavenProjectDemo.testCases.TC_LoginDDT_002)  Time elapsed: 5.678 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.MavenProjectDemo.testCases.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:40)
+
+loginDDT(com.MavenProjectDemo.testCases.TC_LoginDDT_002)  Time elapsed: 7.216 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.MavenProjectDemo.testCases.TC_LoginDDT_002.loginDDT(TC_LoginDDT_002.java:40)
+
